@@ -1,8 +1,5 @@
 ### Flutter widget SourceCode
-
-The repository for storing sourceCode learning Flutter widgets "Belajar Membuat Aplikasi Flutter untuk Pemula" from dicoding.com
-
-https://www.dicoding.com/users/yusmnn
+Repository widget flutter
 
 ## Widgets etc
 - Stateless widget
